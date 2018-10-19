@@ -81,3 +81,7 @@ html {
     flex: 10;
     font-size: 40px;
   }
+
+  .carousel-item {
+      transition: transform 2s ease, opacity .5s ease-out;
+  }

@@ -42,4 +42,13 @@ const panels = document.querySelectorAll('.panel');
 console.log(pressed);
 });
 
-
+//courtesy of "smarter way to learn/ch82:field validation"
+function checkForValue() {
+    if (document.getElementById("lastnamefield").value.length === 0) {
+        alert("please enter your name");
+        return false;
+    }
+    else {
+        console.log("bloop");
+    }
+};
