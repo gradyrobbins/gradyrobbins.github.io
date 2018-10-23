@@ -83,5 +83,5 @@ html {
   }
 
   .carousel-item {
-      transition: transform 2s ease, opacity .5s ease-out;
+      transition: transform 2s ease, opacity 2s ease-out;
   }
