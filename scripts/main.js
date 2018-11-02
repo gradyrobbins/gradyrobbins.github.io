@@ -39,16 +39,16 @@ const panels = document.querySelectorAll('.panel');
                 let murph2 = document.getElementById("Murphy");
                 murph2.className += " panelx";
 }
-console.log(pressed);
+// console.log(pressed);
 });
 
 //courtesy of "smarter way to learn/ch82:field validation"
-function checkForValue() {
-    if (document.getElementById("lastnamefield").value.length === 0) {
-        alert("please enter your name");
-        return false;
-    }
-    else {
-        console.log("bloop");
-    }
-};
+// function checkForValue() {
+//     if (document.getElementById("lastnamefield").value.length === 0) {
+//         alert("please enter your name");
+//         return false;
+//     }
+//     else {
+//         console.log("bloop");
+//     }
+// };
