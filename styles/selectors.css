@@ -87,3 +87,10 @@ img[alt="Beach panorama"] {
 form > a {
     font-size: .7em;
 }
+
+/* pseudo classes */
+
+input:focus,
+textarea: focus {
+    border-color: #52bab3;
+}
