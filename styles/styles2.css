@@ -164,6 +164,7 @@
   a.github {
     background-image: url(../images/github.svg);
   }
+  
   a.social:hover {
     opacity: 1;
   }
