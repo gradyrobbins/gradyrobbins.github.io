@@ -80,6 +80,10 @@
   header .profile-image:hover {
     transform: scale(1.5) rotate(0deg);
   }
+  header .profile-caption:hover {
+    color: white;
+
+  }
   .tag {
     background-color: #efefef;
     color: black;
