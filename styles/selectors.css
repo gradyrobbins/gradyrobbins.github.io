@@ -91,6 +91,6 @@ form > a {
 /* pseudo classes */
 
 input:focus,
-textarea: focus {
+textarea:focus {
     border-color: #52bab3;
 }
