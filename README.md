@@ -1,8 +1,8 @@
-# gradyrobbins.github.io
+# [gradyrobbins.github.io](https://gradyrobbins.github.io/)
 
-### grant me the serenity to accept the things i cannot change;
-### the courage to change the things i can;
-### and the wisdom to know the difference;
+### Grant me the Serenity to accept the things i cannot change;
+### the Courage to change the things i can;
+### and the Wisdom to know the difference;
 
 
 
