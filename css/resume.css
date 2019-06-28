@@ -41,6 +41,9 @@ h2 {
 h3 {
   font-size: 2rem;
 }
+img.align-self {
+  align-self: center;
+}
 
 p.lead {
   font-size: 1.15rem;
