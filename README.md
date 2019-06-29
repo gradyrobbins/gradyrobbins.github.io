@@ -1,6 +1,6 @@
 
-### Grant me the Serenity to accept the things i cannot change;
-### the Courage to change the things i can;
+### Grant me the Serenity to Accept the things I cannot change;
+### the Courage to change the things I can;
 ### and the Wisdom to know the difference;
 
 
