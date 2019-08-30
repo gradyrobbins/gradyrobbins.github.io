@@ -3,7 +3,10 @@
 ### the Courage to change the things I can;
 ### and the Wisdom to know the difference;
 
-
+<!-- colors
+yellow HEX: #fdb814
+aqua HEX #009bc8
+dark blue HEX #35344f -->
 
 
 #### About
