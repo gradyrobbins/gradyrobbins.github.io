@@ -3,10 +3,16 @@
 ### the Courage to change the things I can;
 ### and the Wisdom to know the difference;
 
+[ISFP-T](https://www.16personalities.com/isfp-personality)
+
 <!-- colors
 yellow HEX: #fdb814
 aqua HEX #009bc8
 dark blue HEX #35344f -->
+
+<!-- Concrete vs. Abstract Thinkers:
+Concrete: I don't understand the concepts and I am stuck here.  Ask for specific code examples and a whiteboard visualization of how the pieces fit together.
+Abstract:  focus on effectively researching a concept; it's okay to get hints on how to focus your search.  ask:  "I've done some research, but am having trouble relating it to something we've already learned" -->
 
 
 #### About
