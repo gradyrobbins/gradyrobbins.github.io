@@ -15,6 +15,27 @@ Concrete: I don't understand the concepts and I am stuck here.  Ask for specific
 Abstract:  focus on effectively researching a concept; it's okay to get hints on how to focus your search.  ask:  "I've done some research, but am having trouble relating it to something we've already learned" -->
 
 
+<!-- The Auburn Creed
+I believe that this is a practical world and that I can count only on what I earn. Therefore, I believe in work, hard work.
+
+I believe in education, which gives me the knowledge to work wisely and trains my mind and my hands to work skillfully.
+
+I believe in honesty and truthfulness, without which I cannot win the respect and confidence of my fellow men.
+
+I believe in a sound mind, in a sound body and a spirit that is not afraid, and in clean sports that develop these qualities.
+
+I believe in obedience to law because it protects the rights of all.
+
+I believe in the human touch, which cultivates sympathy with my fellow men and mutual helpfulness and brings happiness for all.
+
+I believe in my Country, because it is a land of freedom and because it is my own home, and that I can best serve that country by "doing justly, loving mercy, and walking humbly with my God."
+
+And because Auburn men and women believe in these things, I believe in Auburn and love it.
+
+-George Petrie (1943) -->
+
+<!-- Blue Zones Project's  Power 9: Down Shift, Know your Purpose, Right Tribe, 80% rule, Belong, Plant Slant, Move Naturally, Family First, and Friends @ Five. Everything that we do is based off these principles because they have been proven to be the key elements of longevity. -->
+
 #### About
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
