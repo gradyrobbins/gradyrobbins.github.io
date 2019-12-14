@@ -36,6 +36,12 @@ And because Auburn men and women believe in these things, I believe in Auburn an
 
 <!-- Blue Zones Project's  Power 9: Down Shift, Know your Purpose, Right Tribe, 80% rule, Belong, Plant Slant, Move Naturally, Family First, and Friends @ Five. Everything that we do is based off these principles because they have been proven to be the key elements of longevity. -->
 
+<!-- 3 videos that make me laugh:
+https://www.youtube.com/watch?v=3IPqvhKWl-Q&t=6s
+https://www.youtube.com/watch?v=WQBc8yxjdSs&t=2s
+https://www.youtube.com/watch?v=WuKrGyp24bw -->
+
+
 #### About
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
