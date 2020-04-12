@@ -34,6 +34,7 @@
         "bootstrap": "4.3.1",
         "jquery": "^3.4.1",
         "jquery.easing": "^1.4.1",
+        "minimist": "^1.2.5",
         "popper.js": "^1.15.0",
         "set-value": "^3.0.1"
     },
