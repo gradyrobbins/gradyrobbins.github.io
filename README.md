@@ -2,14 +2,14 @@
 ## Grant me the Serenity to Accept the things I cannot change;
 ## the Courage to change the things I can;
 ## and the Wisdom to know the difference;
-<br>
-### About Me:
+
+### What would it be like working with someone like me?
 <br>
 [Meyers-Briggs ISFP-T](https://www.16personalities.com/isfp-personality)
 <br>
 <hr/>
 
-#### What I've been working on: 
+#### What I've been up to recently: 
 [Here's a screengrab of some of the templates i've been building for BZP and ShareCare](img/BZPscreengrab.png)
 <!-- colors
 yellow HEX: #fdb814
