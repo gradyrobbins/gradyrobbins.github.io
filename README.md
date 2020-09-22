@@ -1,10 +1,16 @@
 
-### Grant me the Serenity to Accept the things I cannot change;
-### the Courage to change the things I can;
-### and the Wisdom to know the difference;
+## Grant me the Serenity to Accept the things I cannot change;
+## the Courage to change the things I can;
+## and the Wisdom to know the difference;
 <br>
-[ISFP-T](https://www.16personalities.com/isfp-personality)
+### About Me:
 <br>
+[Meyers-Briggs ISFP-T](https://www.16personalities.com/isfp-personality)
+<br>
+<hr/>
+
+#### What I've been working on: 
+[Here's a screengrab of some of the templates i've been building for BZP and ShareCare](img/BZPscreengrab.png)
 <!-- colors
 yellow HEX: #fdb814
 aqua HEX #009bc8
@@ -37,16 +43,15 @@ And because Auburn men and women believe in these things, I believe in Auburn an
 <!-- Blue Zones Project's  Power 9: Down Shift, Know your Purpose, Right Tribe, 80% rule, Belong, Plant Slant, Move Naturally, Family First, and Friends @ Five. Everything that we do is based off these principles because they have been proven to be the key elements of longevity. -->
 
 
-[BZP Portfolio](img/BZPscreengrab.png)
 
 
- 3 videos that make me laugh:
-https://www.youtube.com/watch?v=3IPqvhKWl-Q&t=6s
-https://www.youtube.com/watch?v=WQBc8yxjdSs&t=2s
-https://www.youtube.com/watch?v=WuKrGyp24bw 
+<!-- 3 videos that make me laugh 100% of the time:  
+1. https://www.youtube.com/watch?v=3IPqvhKWl-Q&t=6s<br/>
+1. https://www.youtube.com/watch?v=WQBc8yxjdSs&t=2s<br/>
+1. https://www.youtube.com/watch?v=WuKrGyp24bw <br/> -->
 
 
-#### About
+<!--#### About
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
@@ -64,3 +69,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 #### Copyright and License
 
 Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+-->
