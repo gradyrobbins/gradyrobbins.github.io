@@ -2,9 +2,9 @@
 ### Grant me the Serenity to Accept the things I cannot change;
 ### the Courage to change the things I can;
 ### and the Wisdom to know the difference;
-
+<br>
 [ISFP-T](https://www.16personalities.com/isfp-personality)
-
+<br>
 <!-- colors
 yellow HEX: #fdb814
 aqua HEX #009bc8
@@ -36,10 +36,14 @@ And because Auburn men and women believe in these things, I believe in Auburn an
 
 <!-- Blue Zones Project's  Power 9: Down Shift, Know your Purpose, Right Tribe, 80% rule, Belong, Plant Slant, Move Naturally, Family First, and Friends @ Five. Everything that we do is based off these principles because they have been proven to be the key elements of longevity. -->
 
-<!-- 3 videos that make me laugh:
+
+[BZP Portfolio](img/BZPscreengrab.png)
+
+
+ 3 videos that make me laugh:
 https://www.youtube.com/watch?v=3IPqvhKWl-Q&t=6s
 https://www.youtube.com/watch?v=WQBc8yxjdSs&t=2s
-https://www.youtube.com/watch?v=WuKrGyp24bw -->
+https://www.youtube.com/watch?v=WuKrGyp24bw 
 
 
 #### About
