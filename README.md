@@ -6,7 +6,6 @@
 
 ### What would it be like working with someone like me?
 
-<br>
 [Meyers-Briggs ISFP-T](https://www.16personalities.com/isfp-personality)
 <br>
 <hr/>
