@@ -1,8 +1,8 @@
-
+<!--
 ## Grant me the Serenity to Accept the things I cannot change;
 ## the Courage to change the things I can;
 ## and the Wisdom to know the difference;
-<hr/>
+<hr/>-->
 
 ### What would it be like working with someone like me?
 
