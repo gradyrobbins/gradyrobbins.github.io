@@ -11,7 +11,7 @@
 <hr/>
 
 #### Here's what I've been up to lately:  
-I've been developing templates for the Blue Zones Project and ShareCare: 
+I've been developing templates for the [Blue Zones Project](https://info.bluezonesproject.com/home) and ShareCare: 
 [Here's a screengrab of just a few examples](img/BZPscreengrab.png)
 <!-- colors
 yellow HEX: #fdb814
