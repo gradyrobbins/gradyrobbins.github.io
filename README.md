@@ -10,9 +10,9 @@
 <br>
 <hr/>
 
-#### Here's what I've been up to lately:  
-I've been developing templates for the [Blue Zones Project](https://info.bluezonesproject.com/home) and ShareCare: 
-[Here's a screengrab of just a few examples](img/BZPscreengrab.png)
+#### Here's what I've been up to lately:
+Developing templates for the [Blue Zones Project](https://info.bluezonesproject.com/home) and ShareCare:
+[Here's a screengrab of a few templates](img/BZPscreengrab.png)
 <!-- colors
 yellow HEX: #fdb814
 aqua HEX #009bc8
@@ -47,7 +47,7 @@ And because Auburn men and women believe in these things, I believe in Auburn an
 
 
 
-<!-- 3 videos that make me laugh 100% of the time:  
+<!-- 3 videos that make me laugh 100% of the time:
 1. https://www.youtube.com/watch?v=3IPqvhKWl-Q&t=6s<br/>
 1. https://www.youtube.com/watch?v=WQBc8yxjdSs&t=2s<br/>
 1. https://www.youtube.com/watch?v=WuKrGyp24bw <br/> -->

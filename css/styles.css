@@ -9,5 +9,35 @@
 .strike {
 
         text-decoration: line-through;
-      
+
+}
+
+@font-face {
+        font-family: FORGOTTEN;
+        src: url("../FORGOTTEN/FORGOTTEN.otf") format('truetype');
+        font-weight: bold;
+        font-style: normal;
+    }
+
+@font-face {
+        font-family: 'Brownie-Girly';
+
+        src:url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.woff') format('woff'),
+
+        url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.svg') format('svg'),
+            url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.eot'),
+            url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.eot?#iefix') format('embedded-opentype');
+        font-weight: normal;
+        font-style: normal;
+    }
+@font-face {
+        font-family: 'DKTheCatsWhiskers';
+        src:url('../DKTheCatsWhiskers/DK\ The\ Cats\ Whiskers.otf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+
+.interests  {
+   font-family: 'DKTheCatsWhiskers';
 }
