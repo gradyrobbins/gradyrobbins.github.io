@@ -13,10 +13,13 @@
 #### Here's what I've been up to lately:
 Developing templates for the [Blue Zones Project](https://info.bluezonesproject.com/home) and ShareCare:
 [Here's a screengrab of a few templates](img/BZPscreengrab.png)
-<!-- colors
+<!-- color schema borrowed from MSGCMARATHON
 yellow HEX: #fdb814
 aqua HEX #009bc8
 dark blue HEX #35344f -->
+
+<!-- FONTS: To Mimic 12th Street Mural: {INTERESTS}
+https://www.whatfontis.com/FF_DKTheCatsWhiskers.font?text=INTERESTS#ct -->
 
 <!-- Concrete vs. Abstract Thinkers:
 Concrete: I don't understand the concepts and I am stuck here.  Ask for specific code examples and a whiteboard visualization of how the pieces fit together.
