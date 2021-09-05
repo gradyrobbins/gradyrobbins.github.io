@@ -7,38 +7,60 @@
    } */
 
 .strike {
-
-        text-decoration: line-through;
-
+    text-decoration: line-through;
 }
 
 @font-face {
-        font-family: FORGOTTEN;
-        src: url("../FORGOTTEN/FORGOTTEN.otf") format('truetype');
-        font-weight: bold;
-        font-style: normal;
-    }
+    font-family: FORGOTTEN;
+    src: url("../FORGOTTEN/FORGOTTEN.otf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
 
 @font-face {
-        font-family: 'Brownie-Girly';
+    font-family: 'Brownie-Girly';
+    src: url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.woff') format('woff'), url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.svg') format('svg'), url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.eot'), url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
 
-        src:url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.woff') format('woff'),
-
-        url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.svg') format('svg'),
-            url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.eot'),
-            url('../webfonts_Brownie-Girly/Brownie-Girly.ttf.eot?#iefix') format('embedded-opentype');
-        font-weight: normal;
-        font-style: normal;
-    }
-    
 @font-face {
-        font-family: 'DKTheCatsWhiskers';
-        src:url('../DKTheCatsWhiskers/DK\ The\ Cats\ Whiskers.otf') format('truetype');
-        font-weight: normal;
-        font-style: normal;
-    }
+    font-family: 'DKTheCatsWhiskers';
+    src: url('../DKTheCatsWhiskers/DK\ The\ Cats\ Whiskers.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 
+.interests {
+    font-family: 'DKTheCatsWhiskers';
+}
 
-.interests  {
-   font-family: 'DKTheCatsWhiskers';
+#filters {
+    margin: 1%;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+}
+
+#filters li {
+    float: left;
+}
+
+#filters li span {
+    display: block;
+    padding: 5px 20px;
+    text-decoration: none;
+    color: #666;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: all ease-in-out 0.25s;
+}
+
+#filters li:hover span {
+    color: #000;
+}
+
+#filters li span.active {
+    background: #1fbae7;
+    color: #fff;
 }
