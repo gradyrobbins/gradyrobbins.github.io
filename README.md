@@ -1,18 +1,27 @@
-<!--
-## Grant me the Serenity to Accept the things I cannot change;
-## the Courage to change the things I can;
-## and the Wisdom to know the difference;
-<hr/>-->
+<!--## Grant me the Serenity to Accept the things I cannot change
 
-### What would it be like working with someone like me?
+## the Courage to change the things I can
 
-[Meyers-Briggs ISFP-T](https://www.16personalities.com/isfp-personality)
+## and the Wisdom to know the difference-->
+
+
+### Meyers-Briggs: [ISFP-T](https://www.16personalities.com/isfp-personality)
 <br>
-<hr/>
 
-#### Here's what I've been up to lately:
-Developing templates for the [Blue Zones Project](https://info.bluezonesproject.com/home) and ShareCare:
-[Here's a screengrab of a few templates](img/BZPscreengrab.png)
+
+#### What I've been working on lately:
+Developing [templates](img/BZPscreengrab.png) for the [Blue Zones Project](https://info.bluezonesproject.com/home) and ShareCare:
+
+
+
+
+<!-- 3 videos that make me laugh 100% of the time:
+1. https://www.youtube.com/watch?v=3IPqvhKWl-Q&t=6s<br/>
+1. https://www.youtube.com/watch?v=WQBc8yxjdSs&t=2s<br/>
+1. https://www.youtube.com/watch?v=WuKrGyp24bw <br/> -->
+
+
+
 <!-- color schema borrowed from MSGCMARATHON
 yellow HEX: #fdb814
 aqua HEX #009bc8
@@ -50,10 +59,7 @@ And because Auburn men and women believe in these things, I believe in Auburn an
 
 
 
-<!-- 3 videos that make me laugh 100% of the time:
-1. https://www.youtube.com/watch?v=3IPqvhKWl-Q&t=6s<br/>
-1. https://www.youtube.com/watch?v=WQBc8yxjdSs&t=2s<br/>
-1. https://www.youtube.com/watch?v=WuKrGyp24bw <br/> -->
+
 
 
 <!--#### About
