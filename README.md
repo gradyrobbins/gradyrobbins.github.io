@@ -10,10 +10,8 @@
 
 
 #### What I've been working on lately:
-1. Developing [templates](img/BZPscreengrab.png) for the [Blue Zones Project](https://info.bluezonesproject.com/home) and ShareCare
-
+1. Job hunting via indeed.com
 1. Accessibility audit of my personal website www.gradyrobbins.com
-
 1. Custom DNS troubleshooting for a friend: www.myownfamilydoctor.com
 
 
