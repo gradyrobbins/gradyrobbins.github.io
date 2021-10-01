@@ -10,6 +10,13 @@
     text-decoration: line-through;
 }
 
+.sr-only {
+    font-size: 0;
+    height: 1px;
+    overflow: hidden;
+    display: block;
+}
+
 #filters {
     margin: 1%;
     padding: 0;
