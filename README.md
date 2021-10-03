@@ -4,15 +4,16 @@
 
 ## and the Wisdom to know the difference-->
 
+# GRADY ROBBINS
+## Meyers-Briggs: [ISFP-T](https://www.16personalities.com/isfp-personality)
 
-### Meyers-Briggs: [ISFP-T](https://www.16personalities.com/isfp-personality)
-<br>
 
 
-#### What I've been working on lately:
-1. Job hunting via indeed.com
-1. Accessibility audit of my personal website www.gradyrobbins.com
-1. Custom DNS troubleshooting for a friend: www.myownfamilydoctor.com
+### What I've been working on lately:
+1. Job hunting
+1. DNS troubleshooting  www.myownfamilydoctor.com 
+1. Seek to connect [my front end capstone](https://github.com/gradyrobbins/fifty) project to Persistent Data Storage; using a json-server does not meet customer's needs
+1. Browse open source GIS repositories & tutorials.
 
 
 <!-- 3 videos that make me laugh 100% of the time:
