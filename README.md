@@ -11,7 +11,7 @@
 
 ### What I've been working on lately:
 1. Job hunting
-1. DNS troubleshooting  www.myownfamilydoctor.com 
+1. Audit personal website using [html-validator ](https://validator.w3.org/nu/)
 1. Seek to connect [my front end capstone](https://github.com/gradyrobbins/fifty) project to Persistent Data Storage; using a json-server does not meet customer's needs
 1. Browse open source GIS repositories & tutorials.
 
