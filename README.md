@@ -1,19 +1,18 @@
-<!--## Grant me the Serenity to Accept the things I cannot change
-
-## the Courage to change the things I can
-
-## and the Wisdom to know the difference-->
-
-# GRADY ROBBINS
-## Meyers-Briggs: [ISFP-T](https://www.16personalities.com/isfp-personality)
 
 
+# GRADY ROBBINS: [ISFP-T](https://www.16personalities.com/isfp-personality)
 
-### What I've been working on lately:
+#### Grant me the Serenity to Accept the things I cannot change
+
+#### the Courage to change the things I can
+
+#### and the Wisdom to know the difference
+
+<!-- ### What I've been working on lately:
 1. Job hunting
 1. Audit personal website using [html-validator ](https://validator.w3.org/nu/)
 1. Seek to connect [my front end capstone](https://github.com/gradyrobbins/fifty) project to Persistent Data Storage; using a json-server does not meet customer's needs
-1. Browse open source GIS repositories & tutorials.
+1. Browse open source GIS repositories & tutorials. -->
 
 
 <!-- 3 videos that make me laugh 100% of the time:
