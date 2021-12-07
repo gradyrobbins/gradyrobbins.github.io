@@ -1,10 +1,11 @@
-# GRADY ROBBINS: [ISFP-T](https://www.16personalities.com/isfp-personality)
+# GRADY ROBBINS 
+## Grant him the serenity to accept the things he cannot change
 
-### Grant us the Serenity to Accept the things we cannot change
+## Courage to change the things he can
 
-### Courage to change the things we can
+## and the wisdom to know the difference
 
-### and the Wisdom to know the difference
+### [ISFP-T](https://www.16personalities.com/isfp-personality)
 
 <!-- ### What I've been working on lately:
 1. Job hunting
