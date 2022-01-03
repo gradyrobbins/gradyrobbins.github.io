@@ -1,9 +1,5 @@
-# GRADY ROBBINS 
-## Grant him the serenity to accept the things he cannot change
+# GRADY ROBBINS
 
-## Courage to change the things he can
-
-## and the wisdom to know the difference
 
 ### [ISFP-T](https://www.16personalities.com/isfp-personality)
 
