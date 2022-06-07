@@ -1,7 +1,6 @@
-# GRADY ROBBINS
+# [GRADY ROBBINS](https://www.gradyrobbins.com)
 
-
-### [ISFP-T](https://www.16personalities.com/isfp-personality)
+<!-- ### [ISFP-T](https://www.16personalities.com/isfp-personality) -->
 
 <!-- ### What I've been working on lately:
 1. Job hunting
