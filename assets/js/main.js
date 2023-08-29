@@ -67,10 +67,8 @@
 
             // Images (in the format of 'url': 'alignment').
             images: {
-                './../images/Pollack31JPG.JPG': 'center',
+                './images/50landingpage.gif': 'center',
 
-                './images/Spillway.jpg': 'center',
-                'images/bg03.jpg': 'center'
             },
 
             // Delay.
