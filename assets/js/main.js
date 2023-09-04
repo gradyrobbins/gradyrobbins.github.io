@@ -67,7 +67,7 @@
 
             // Images (in the format of 'url': 'alignment').
             images: {
-                './images/50landingpage.gif': 'center',
+                './images/50landingpage.gif': 'bottom',
 
             },
 
